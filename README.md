@@ -1,6 +1,9 @@
 
 # Patrick Gomes
 Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Dados. Tenho projetos com Análise Exploratória de Dados e Aprendizado de Máquinas.
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://br.linkedin.com/in/patotricks15?trk=profile-badge'>Patrick Gomes</a></div>
+
 ## Sejam todos bem vindos ao meu perfil! 😊
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-gomes-2432751a3/)](https://www.linkedin.com/in/patrick-gomes-2432751a3/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@patrickufrrj)](https://medium.com/@patrickufrrj) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=patrickufrrj@gmail.com)](patrickufrrj@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/patrickgomes)](https://www.kaggle.com/patrickgomes) [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://patotricks15.github.io/Ciencia-de-dados-projetos/)](https://patotricks15.github.io/Ciencia-de-dados-projetos/)
 
