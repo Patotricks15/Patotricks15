@@ -4,7 +4,15 @@
 
 Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Dados. Tenho projetos com análise exploratória de dados, aprendizado de máquinas, web scraping e sistema de recomendação.
 
-O que estou estudando atualmente:
+## Principais repositórios:
+
+[Projetos de ciência de dados](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
+
+[Rapydinhas](https://github.com/Patotricks15/Rapydinhas)
+
+[Mathematics](https://github.com/Patotricks15/Mathematics)
+
+## O que estou estudando atualmente:
 
 1. Séries temporais, utilizarei esse conhecimento para projetos na área de economia e finanças.
 
