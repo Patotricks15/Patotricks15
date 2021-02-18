@@ -3,7 +3,9 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Dados. Tenho projetos com análise exploratória de dados, aprendizado de máquinas, web scraping e sistema de recomendação.
+Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Dados. Atualmente sou estagiário de ciência de dados na KeyCash. Possuo projetos com análise exploratória de dados, aprendizado de máquinas, web scraping e sistema de recomendação.
+
+Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir ajuda e saber como trilhei para conseguir meu estágio com menos de um ano de estudos em ciência de dados, pode me chamar no Linkedin 😊
 
 ## Principais repositórios:
 
@@ -17,9 +19,7 @@ Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Da
 
 1. Séries temporais, utilizarei esse conhecimento para projetos na área de economia e finanças.
 
-2. Visão computacional
-
-3. Linguagem SQL
+2. Linguagem SQL
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
