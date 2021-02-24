@@ -3,7 +3,8 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Dados. Atualmente sou estagiário de ciência de dados na KeyCash. Possuo projetos com análise exploratória de dados, aprendizado de máquinas, web scraping e sistema de recomendação.
+Sou graduando em Ciências Econômicas pela UFRRJ e autodidata em Ciência de Dados. Atualmente sou estagiário de ciência de dados na KeyCash.
+Possuo habilidades com Python, Excel, análise exploratória de dados, aprendizado de máquinas, web scraping, visualização de dados e relatórios de BI.
 
 Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir ajuda e saber como trilhei para conseguir meu estágio com menos de um ano de estudos em ciência de dados, pode me chamar no Linkedin 😊
 
@@ -17,7 +18,7 @@ Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir a
 
 ## O que estou estudando atualmente:
 
-1. Séries temporais, utilizarei esse conhecimento para projetos na área de economia e finanças.
+1. AWS - QuickSight para relatórios e dashboards
 
 2. Linguagem SQL
 
