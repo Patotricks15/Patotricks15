@@ -3,9 +3,9 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-Cientista de dados estagiário - KeyCash
-Vice-tesoureiro - SEG Geophysics S.C
-Economia - UFRRJ
+* Cientista de dados estagiário - KeyCash
+* Vice-tesoureiro - SEG Geophysics S.C
+* Economia - UFRRJ
 
 Possuo habilidades com Python, Excel, análise exploratória de dados, aprendizado de máquinas, web scraping, visualização de dados e relatórios de BI.
 
