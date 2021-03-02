@@ -23,7 +23,9 @@ Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir a
 
 1. AWS - QuickSight para relatórios e dashboards
 
-2. Linguagem SQL
+2. AWS - CloudWatch para monitoramento de repositórios
+
+3. Linguagem SQL
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
