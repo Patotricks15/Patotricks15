@@ -7,7 +7,7 @@
 * Vice-tesoureiro - SEG Geophysics S.C
 * Economia - UFRRJ
 
-Possuo habilidades com Python, Excel, análise exploratória de dados, aprendizado de máquinas, web scraping, visualização de dados e relatórios de BI.
+Possuo habilidades com Python, Excel, SQL, análise exploratória de dados, aprendizado de máquinas, web scraping, visualização de dados e relatórios de BI.
 
 Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir ajuda e saber como trilhei para conseguir meu estágio com menos de um ano de estudos em ciência de dados, pode me chamar no Linkedin 😊
 
@@ -23,7 +23,7 @@ Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir a
 
 1. AWS - QuickSight para relatórios e dashboards
 
-2. AWS - CloudWatch para monitoramento de repositórios
+2. AWS - Glue para automatização de catálogos
 
 3. Linguagem SQL
 
