@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+ # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Curr%C3%ADculo%20Patrick%20Gomes.pdf'>Patrick Gomes</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-gomes-2432751a3/)](https://www.linkedin.com/in/patrick-gomes-2432751a3/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@patrickufrrj)](https://medium.com/@patrickufrrj) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=patrickufrrj@gmail.com)](patrickufrrj@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/patrickgomes)](https://www.kaggle.com/patrickgomes) [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://patotricks15.github.io/Ciencia-de-dados-projetos/)](https://patotricks15.github.io/Ciencia-de-dados-projetos/)
 
-You can use the [editor on GitHub](https://github.com/Patotricks15/Patotricks15/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Sejam todos bem vindos ao meu perfil! 😊
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Cientista de dados estagiário - KeyCash
+* Vice-tesoureiro - SEG Geophysics S.C
+* Economia - UFRRJ
 
-### Markdown
+Possuo habilidades com Python, Excel, SQL, análise exploratória de dados, aprendizado de máquinas, web scraping, visualização de dados e relatórios de BI.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Se você for iniciante e quiser conversar sobre a área, tirar dúvidas, pedir ajuda e saber como trilhei para conseguir meu estágio com menos de um ano de estudos em ciência de dados, pode me chamar no Linkedin 😊
 
-```markdown
-Syntax highlighted code block
+## Principais repositórios:
 
-# Header 1
-## Header 2
-### Header 3
+[Projetos de ciência de dados](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
 
-- Bulleted
-- List
+[Rapydinhas](https://github.com/Patotricks15/Rapydinhas)
 
-1. Numbered
-2. List
+[Mathematics](https://github.com/Patotricks15/Mathematics)
 
-**Bold** and _Italic_ and `Code` text
+## O que estou estudando atualmente:
 
-[Link](url) and ![Image](src)
-```
+1. AWS - QuickSight para relatórios e dashboards
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. AWS - Glue para automatização de catálogos
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Patotricks15/Patotricks15/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. Linguagem SQL
