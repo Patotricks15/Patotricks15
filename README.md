@@ -19,9 +19,9 @@ Meus interesses são: ciência de dados, machine learning, econometria, microeco
 
 ## O que estou estudando atualmente:
 
-1. Git
+1. Selenium
 
-2. Linguagem SQL
+2. SQL
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
