@@ -4,24 +4,30 @@
 ## Sejam todos bem vindos ao meu perfil! 😊
 
 * Cientista de dados estagiário - KeyCash
-* Vice-tesoureiro - SEG Geophysics S.C
+* Vice-tesoureiro - SEG Rural Geophysics S.C
 * Economia - UFRRJ
 
-Meus interesses são: ciência de dados, machine learning, econometria, microeconomia, economia comportamental e modelagem matemática.
+Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atuo no setor de tecnologia, na área de ciência de dados e desenvolvo pesquisa científica.
 
-## Principais repositórios:
+Experiência com:
+- Construção e desenvolvimento de KPIs;
+- Extração, limpeza, análise exploratória e modelagem de dados;
+- Desenvolvimento de scripts para automação de processos;
+- Consultas em banco de dados;
+
+
+## Principal repositório:
 
 [Projetos de ciência de dados](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
 
-[Rapydinhas](https://github.com/Patotricks15/Rapydinhas)
-
-[Mathematics](https://github.com/Patotricks15/Mathematics)
 
 ## O que estou estudando atualmente:
 
 1. Selenium
 
 2. SQL
+
+3. R
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
