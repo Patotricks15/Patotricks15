@@ -5,6 +5,7 @@
 
 * Cientista de dados estagiário - KeyCash
 * Vice-tesoureiro - SEG Rural Geophysics S.C
+* Pesquisador - PIBIC
 * Economia - UFRRJ
 
 Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atuo no setor de tecnologia, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
