@@ -10,19 +10,18 @@
 Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atuo no setor de tecnologia, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
 
 Experiência com:
-- **Business Intelligence**: Construção e desenvolvimento de KPIs;
-- **Data architecture**: Arquitetura SPICE (QuickSight - AWS) para um melhor funcionamento dos dashboards;
+- **Business Intelligence**: Construção de dashboards e KPIs;
 - **Data governance**: Criação de regras de *Data Quality* para bancos de dados;
 - **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
 - **RPA**: Desenvolvimento de scripts para automação de processos;
 - **Database**: Consultas em bancos de dados;
+- **Econometria**: Desenvolvimento de inferências causais na economia
 
 Ferramentas:
 - **Linguagens de programação**: Python
 - **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange
 - **Banco de dados**: MySQL
 - **Computação em nuvem**: AWS
-
 
 ## Repositório com meus projetos em Ciência de Dados:
 
