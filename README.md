@@ -7,16 +7,18 @@
 * Vice-tesoureiro - SEG Rural Geophysics S.C
 * Economia - UFRRJ
 
-Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atuo no setor de tecnologia, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC).
+Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atuo no setor de tecnologia, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
 
 Experiência com:
-- Construção e desenvolvimento de KPIs;
-- Extração, limpeza, análise exploratória e modelagem de dados;
-- Desenvolvimento de scripts para automação de processos;
-- Consultas em banco de dados;
+- **Business Intelligence**: Construção e desenvolvimento de KPIs;
+- **Data architecture**: Arquitetura SPICE (QuickSight - AWS) para um melhor funcionamento dos dashboards;
+- **Data governance**: Criação de regras de *Data Quality*;
+- **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
+- **RPA**: Desenvolvimento de scripts para automação de processos;
+- **Database**: Consultas em banco de dados;
 
 
-## Principal repositório:
+## Repositório com meus projetos em Ciência de Dados:
 
 [Projetos de ciência de dados](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
 
