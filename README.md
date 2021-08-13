@@ -12,10 +12,16 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 Experiência com:
 - **Business Intelligence**: Construção e desenvolvimento de KPIs;
 - **Data architecture**: Arquitetura SPICE (QuickSight - AWS) para um melhor funcionamento dos dashboards;
-- **Data governance**: Criação de regras de *Data Quality*;
+- **Data governance**: Criação de regras de *Data Quality* para bancos de dados;
 - **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
 - **RPA**: Desenvolvimento de scripts para automação de processos;
-- **Database**: Consultas em banco de dados;
+- **Database**: Consultas em bancos de dados;
+
+Ferramentas:
+- **Linguagens de programação**: Python
+- **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange
+- **Banco de dados**: MySQL
+- **Computação em nuvem**: AWS
 
 
 ## Repositório com meus projetos em Ciência de Dados:
