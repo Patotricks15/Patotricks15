@@ -10,7 +10,7 @@
 
 Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atuo no setor de tecnologia, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
 
-Experiência com:
+## Experiência com:
 - **Business Intelligence**: Construção de dashboards e KPIs;
 - **Data governance**: Criação de regras de *Data Quality* para bancos de dados;
 - **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
@@ -19,7 +19,7 @@ Experiência com:
 - **Econometria**: Desenvolvimento de inferências causais na economia
 - **Equilíbrio Geral Computável**: Aplicações de modelos para determinar efeitos no equilíbrio econômico (Software: GEMPACK)
 
-Ferramentas:
+## Ferramentas:
 - **Linguagens de programação**: Python
 - **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange
 - **Banco de dados**: MySQL
