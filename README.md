@@ -17,7 +17,7 @@ Experiência com:
 - **RPA**: Desenvolvimento de scripts para automação de processos;
 - **Database**: Consultas em bancos de dados;
 - **Econometria**: Desenvolvimento de inferências causais na economia
-
+- **Equilíbrio Geral Computável**: Aplicações de modelos para determinar efeitos no equilíbrio econômico (Software: GEMPACK)
 Ferramentas:
 - **Linguagens de programação**: Python
 - **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange
