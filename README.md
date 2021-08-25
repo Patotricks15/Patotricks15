@@ -3,7 +3,8 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-* Cientista de dados estagiário - KeyCash
+* Buscando vagas de cientista de dados estagiário ou Jr
+
 * Vice-tesoureiro - SEG Rural Geophysics S.C
 * Pesquisador - PIBIC
 * Economia - UFRRJ
