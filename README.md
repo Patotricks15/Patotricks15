@@ -33,11 +33,11 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 ## O que estou estudando atualmente:
 
-1. Selenium
+1. Redes neurais
 
 2. SQL
 
-3. R
+3. Power BI
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
