@@ -3,7 +3,7 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-* Cientista de Dados I 
+* Cientista de Dados I - RankMyAPP
 * Vice-tesoureiro - SEG Rural Geophysics S.C
 * Pesquisador - PIBIC
 * Economia - UFRRJ
