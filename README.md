@@ -3,8 +3,7 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-* Buscando vagas de cientista de dados estagiário ou Jr
-
+* Cientista de Dados I 
 * Vice-tesoureiro - SEG Rural Geophysics S.C
 * Pesquisador - PIBIC
 * Economia - UFRRJ
@@ -33,7 +32,7 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 ## O que estou estudando atualmente:
 
-1. Redes neurais
+1. NLP
 
 2. SQL
 
