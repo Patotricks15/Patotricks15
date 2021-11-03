@@ -14,7 +14,7 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 - **Business Intelligence**: Construção de dashboards e KPIs;
 - **Data governance**: Criação de regras de *Data Quality* para bancos de dados;
 - **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
-- **RPA**: Desenvolvimento de scripts para automação de processos;
+- **RPA**: Desenvolvimento de bots para automação de processos;
 - **Database**: Consultas em bancos de dados;
 - **Econometria**: Desenvolvimento de inferências causais na economia
 - **Equilíbrio Geral Computável**: Aplicações de modelos para determinar efeitos no equilíbrio econômico (Software: GEMPACK)
