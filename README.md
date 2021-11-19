@@ -10,8 +10,8 @@
 
 Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atualmente trabalho no setor de Produtos, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{patrickgomes}/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{patrickgomes}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{4946340}/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{4946340}/dataset)
 
 
 ## Experiência com:
