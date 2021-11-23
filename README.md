@@ -34,6 +34,10 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 [Projetos de ciência de dados](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
 
+## Repositório do meu curso (em construção):
+
+[Mini-curso: Primeiros passos no Python](https://github.com/Patotricks15/Minicurso_Python)
+
 
 ## O que estou estudando atualmente:
 
