@@ -37,11 +37,9 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 ## O que estou estudando atualmente:
 
-1. NLP
+1. Algoritmo e Estrutura de Dados
 
-2. SQL
-
-3. Power BI
+2. Análise Exploratória de Dados Espaciais
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
