@@ -22,8 +22,9 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 ## Ferramentas:
 - **Linguagens de programação**: Python
-- **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange
-- **Banco de dados**: MySQL
+- **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange3
+- **Softwares de visualização de dados: AWS - QuickSight, Power BI
+- **Banco de dados**: MySQL, MongoDB
 - **Computação em nuvem**: AWS
 
 ## Repositório com meus projetos em Ciência de Dados:
