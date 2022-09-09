@@ -7,7 +7,7 @@
 * Pesquisador - CNPq
 * Economia - UFRRJ
 
-Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atualmente trabalho no setor de Produtos, na área de ciência de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
+Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atualmente trabalho no departamento de Produtos como cientista de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
 
 
 ## Experiência com:
@@ -16,15 +16,14 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 - **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
 - **RPA**: Desenvolvimento de bots para automação de processos;
 - **Database**: Consultas em bancos de dados;
-- **Econometria**: Desenvolvimento de inferências causais na economia
-- **Equilíbrio Geral Computável**: Aplicações de modelos para determinar efeitos no equilíbrio econômico (Software: GEMPACK)
+- **Análise Exploratória de Dados Espaciais + Econometria espacial**: Desenvolvimento de ferramentas e análises utilizando dados espaciais
 - **Outros**: Metodologia Ágil, OKR
 
 ## Ferramentas:
 - **Linguagens de programação**: Python
-- **Softwares de estatística e mineração de dados**: R, E-views, Excel, Orange3
+- **Softwares de estatística e mineração de dados**: R, Excel, Orange3
 - **Softwares de visualização de dados: AWS - QuickSight, Power BI
-- **Banco de dados**: MySQL, MongoDB
+- **Banco de dados**: MySQL, MongoDB, SQLite
 - **Computação em nuvem**: AWS
 
 ## Repositório com meus projetos em Ciência de Dados:
