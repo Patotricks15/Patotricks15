@@ -37,7 +37,7 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 ## O que estou estudando atualmente:
 
-1. Algoritmo e Estrutura de Dados
+1. MLOps com MLFLow
 
 2. Análise Exploratória de Dados Espaciais
 
