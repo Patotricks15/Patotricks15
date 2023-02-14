@@ -3,11 +3,11 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-* Cientista de Dados I - RankMyAPP
+* Cientista de Dados
 * Pesquisador - CNPq
 * Economia - UFRRJ
 
-Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atualmente trabalho no departamento de Produtos como cientista de dados e desenvolvo pesquisa científica (PIBIC) com dados da PNAD-contínua.
+Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa, Econometria e Comportamento do Consumidor. Atualmente buscando emprego como cientista de dados e desenvolvendo pesquisa científica (PIBIC) com dados da PNAD-contínua.
 
 
 ## Experiência com:
@@ -21,10 +21,10 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 ## Ferramentas:
 - **Linguagens de programação**: Python
-- **Softwares de estatística e mineração de dados**: R, Excel, Orange3
-- **Softwares de visualização de dados: AWS - QuickSight, Power BI
+- **Softwares de estatística e mineração de dados**: R, Excel, Orange3, Stata
+- **Softwares de visualização de dados**: AWS - QuickSight, Power BI
 - **Banco de dados**: MySQL, MongoDB, SQLite
-- **Computação em nuvem**: AWS
+- **Computação em nuvem**: AWS (básico)
 
 ## Repositório com meus projetos em Ciência de Dados:
 
