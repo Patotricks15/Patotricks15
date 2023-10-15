@@ -11,6 +11,8 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 
 ## Experiência com:
+- **Machine Learning**: Desenvolvimento de modelos preditivos para classificação, regressão, clusterização e séries temporais
+- **LLM**: Criação de *AI Agents*, *prompt engineering*, integração de IA generativa com documentos
 - **Business Intelligence**: Construção de dashboards e KPIs;
 - **Data governance**: Criação de regras de *Data Quality* para bancos de dados;
 - **Analytics**: Extração, limpeza, análise exploratória e modelagem de dados;
@@ -22,7 +24,7 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 ## Ferramentas:
 - **Linguagens de programação**: Python
 - **Softwares de estatística e mineração de dados**: R, Excel, Orange3, Stata
-- **Softwares de visualização de dados**: AWS - QuickSight, Power BI
+- **Softwares de visualização de dados**: AWS - QuickSight, Power BI, Grafana, Looker Studio
 - **Banco de dados**: MySQL, MongoDB, SQLite
 - **Computação em nuvem**: AWS (básico)
 
@@ -34,12 +36,6 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 
 [Mini-curso: Primeiros passos no Python](https://github.com/Patotricks15/Minicurso_Python)
 
-
-## O que estou estudando atualmente:
-
-1. MLOps com MLFLow
-
-2. Análise Exploratória de Dados Espaciais
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
