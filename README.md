@@ -35,7 +35,3 @@ Graduando em Ciências Econômicas pela UFRRJ, com foco em Economia Quantitativa
 ## Repositório do meu curso (em construção):
 
 [Mini-curso: Primeiros passos no Python](https://github.com/Patotricks15/Minicurso_Python)
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patotricks15)](https://github.com/anuraghazra/github-readme-stats)
