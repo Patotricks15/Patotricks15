@@ -3,7 +3,8 @@
 
 ## 😊Welcome to my profile! 😊
 
-**Data Scientist | AI Engineer**
+**[Data Scientist](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
+ | [AI Engineer](https://github.com/Patotricks15/Generative-AI-projects)**
 
 Currently an undergraduate in Economic Sciences at UFRRJ, focusing on Quantitative Economics, Econometrics, and Consumer Behavior. I am currently seeking employment as a data scientist and developing scientific research (PIBIC) with data from PNAD-Continuous.
 
@@ -26,8 +27,3 @@ Currently an undergraduate in Economic Sciences at UFRRJ, focusing on Quantitati
 - **Data Visualization Software**: AWS - QuickSight, Power BI, Grafana, Looker Studio
 - **Databases**: MySQL, MongoDB, SQLite
 - **Cloud Computing**: AWS, GCP
-
-
-## Repository with my Data Science projects:
-
-[Data Science Projects](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
