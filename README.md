@@ -6,7 +6,7 @@
 **[Data Scientist](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
  | [AI Engineer](https://github.com/Patotricks15/Generative-AI-projects)**
 
-Currently an undergraduate in Economic Sciences at UFRRJ, focusing on Quantitative Economics, Econometrics, and Consumer Behavior. I am currently seeking employment as a data scientist and developing scientific research (PIBIC) with data from PNAD-Continuous.
+I'm a data scientist  4  years of experience, focusing on developing Machine Learning Models, Artificial Intelligence applications, prompt engineering, data analysis and econometric models. Currently I'm deeply studying Langchain and AI Agents to improve my career and my set of skills.
 
 ## Experience with:
 
@@ -23,7 +23,7 @@ Currently an undergraduate in Economic Sciences at UFRRJ, focusing on Quantitati
 ## Tools:
 
 - **Programming Languages**: Python
-- **Statistical and Data Mining Software**: R, Excel, Orange3, Stata
+- **Statistical and Data Mining Softwares**: R, Excel, Orange3, Stata
 - **Data Visualization Software**: AWS - QuickSight, Power BI, Grafana, Looker Studio
 - **Databases**: MySQL, MongoDB, SQLite
 - **Cloud Computing**: AWS, GCP
