@@ -20,7 +20,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - **Exploratory Spatial Data Analysis + Spatial Econometrics**: Development of tools and analyses using spatial data
 - **Others**: Agile Methodology, OKR
 
-## Tools:
+## Main Tools:
 
 - **Programming Languages**: Python
 - **Statistical and Data Mining Softwares**: R, Excel, Orange3, Stata
