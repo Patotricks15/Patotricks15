@@ -23,6 +23,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 ## Main Tools:
 
 - **Programming Languages**: Python
+- **GenAI**: Langchain, Langgraph, HuggingFaces
 - **Statistical and Data Mining Softwares**: R, Excel, Orange3, Stata
 - **Data Visualization Software**: AWS - QuickSight, Power BI, Grafana, Looker Studio
 - **Databases**: MySQL, MongoDB, SQLite
