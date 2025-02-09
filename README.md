@@ -28,3 +28,8 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - **Data Visualization Software**: AWS - QuickSight, Power BI, Grafana, Looker Studio
 - **Databases**: MySQL, MongoDB, SQLite
 - **Cloud Computing**: AWS, GCP
+
+## 2025 studies roadmap
+
+- **Docker**
+- **Langgraph**
