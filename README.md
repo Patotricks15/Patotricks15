@@ -31,5 +31,8 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 
 ## 2025 studies roadmap
 
-- **Docker**
-- **Langgraph**
+- [**Docker**](https://github.com/Patotricks15/studying_docker)
+- [**Langgraph**](https://github.com/Patotricks15/langgraph_study)
+- **Pandas documentation**: coming soon
+- **Data Engineering**: coming soon
+- **Advanced Python OOP**: coming soon
