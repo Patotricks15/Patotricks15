@@ -33,8 +33,9 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 
 - [**Docker**](https://github.com/Patotricks15/studying_docker)
 - [**Langgraph**](https://github.com/Patotricks15/langgraph_study)
+- [**Essential AWS for data scientists**](https://github.com/Patotricks15/studying_aws)
 - [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study): current
-- [**Essential AWS for data scientists**](https://github.com/Patotricks15/studying_aws): current
+- [**Dbt**](https://github.com/Patotricks15/dbt_study): current
 - **Qdrant VectorDatabase**: coming soon
 - **Essential math for data science:** coming soon
 - **Scikit-learn documentation:** coming soon
