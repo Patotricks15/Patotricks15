@@ -37,7 +37,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study): current
 - [**Dbt**](https://github.com/Patotricks15/dbt_study): current
 - **Qdrant VectorDatabase**: coming soon
-- **MlFlow**: coming soon
+- **MLFlow**: coming soon
 - **Essential math for data science:** coming soon
 - **Scipy.linalg:** coming soon
 - **Scikit-learn documentation:** coming soon
