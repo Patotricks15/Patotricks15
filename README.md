@@ -35,7 +35,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**Langgraph**](https://github.com/Patotricks15/langgraph_study)
 - [**Essential AWS for data scientists**](https://github.com/Patotricks15/studying_aws)
 - [**Dbt**](https://github.com/Patotricks15/dbt_study)
-- [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study): current
+- [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study)
 - [**Qdrant VectorDatabase**](https://github.com/Patotricks15/qdrant_study): current
 - **MLFlow**: coming soon
 - **Essential math for data science:** coming soon
