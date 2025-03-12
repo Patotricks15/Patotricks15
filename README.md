@@ -38,8 +38,10 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study)
 - [**Qdrant VectorDatabase**](https://github.com/Patotricks15/qdrant_study): current
 - [**Sentence Transformers**](https://github.com/Patotricks15/sentence_transformers_study): current
+- **AWS Bedrock - study notes**: coming soon
+- **AWS Certified Machine Learning Engineer Associate MLA-C01 - Study notes and questions**: coming soon
+- - **MLFlow**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
-- **MLFlow**: coming soon
 - **Essential math for data science:** coming soon
 - **Mathematics for Inference and Machine Learning - IMPERIAL COLLEGE LONDON**: coming soon
 - **Scipy.linalg:** coming soon
