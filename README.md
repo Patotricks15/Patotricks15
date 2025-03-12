@@ -41,6 +41,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**AWS Bedrock - study notes**](https://github.com/Patotricks15/aws-bedrock-study-notes): current
 - **AWS Certified Machine Learning Engineer Associate MLA-C01 - Study notes and questions**: coming soon
 - **MLFlow**: coming soon
+- **Neo4j**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
 - **Mathematics for Inference and Machine Learning - IMPERIAL COLLEGE LONDON**: coming soon
