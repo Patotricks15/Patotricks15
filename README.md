@@ -37,7 +37,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**Dbt**](https://github.com/Patotricks15/dbt_study)
 - [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study)
 - [**Qdrant VectorDatabase**](https://github.com/Patotricks15/qdrant_study)
-- [**Sentence Transformers**](https://github.com/Patotricks15/sentence_transformers_study): current
+- [**Sentence Transformers**](https://github.com/Patotricks15/sentence_transformers_study)
 - [**AWS Bedrock - study notes**](https://github.com/Patotricks15/aws-bedrock-study-notes): current
 - **AWS Certified Machine Learning Engineer Associate MLA-C01 - Study notes and questions**: coming soon
 - **MLFlow**: coming soon
