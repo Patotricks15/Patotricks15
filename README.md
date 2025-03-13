@@ -40,6 +40,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**Sentence Transformers**](https://github.com/Patotricks15/sentence_transformers_study)
 - [**AWS Bedrock - study notes**](https://github.com/Patotricks15/aws-bedrock-study-notes): current
 - **AWS Certified Machine Learning Engineer Associate MLA-C01 - Study notes and questions**: coming soon
+- **Ragas**: coming soon
 - **MLFlow**: coming soon
 - **Neo4j**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
