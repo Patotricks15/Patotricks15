@@ -43,6 +43,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**AWS Certified AI Practicioner AIF-C01 - Study notes and questions**](https://github.com/Patotricks15/AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions): current
 - [**MLFlow**](https://github.com/Patotricks15/mlflow_study): current
 - [**FastAPI**](https://github.com/Patotricks15/fastapi_study): current
+- **RAG techniques from scratch**: coming soon
 - **Neo4j**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
