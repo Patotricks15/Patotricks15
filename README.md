@@ -34,15 +34,15 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**Docker**](https://github.com/Patotricks15/studying_docker)
 - [**Langgraph**](https://github.com/Patotricks15/langgraph_study)
 - [**Essential AWS for data scientists**](https://github.com/Patotricks15/studying_aws)
-- [**Dbt**](https://github.com/Patotricks15/dbt_study)
+- [**Dbt basic**](https://github.com/Patotricks15/dbt_study)
 - [**Pandas documentation**](https://github.com/Patotricks15/pandas_documentation_study)
 - [**Qdrant VectorDatabase**](https://github.com/Patotricks15/qdrant_study)
 - [**Sentence Transformers**](https://github.com/Patotricks15/sentence_transformers_study)
 - [**AWS Bedrock - study notes**](https://github.com/Patotricks15/aws-bedrock-study-notes)
 - [**Ragas**](https://github.com/Patotricks15/ragas_study)
+- [**FastAPI basic**](https://github.com/Patotricks15/fastapi_study)
+- [**MLFlow**](https://github.com/Patotricks15/mlflow_study)
 - [**AWS Certified AI Practicioner AIF-C01 - Study notes and questions**](https://github.com/Patotricks15/AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions): current
-- [**MLFlow**](https://github.com/Patotricks15/mlflow_study): current
-- [**FastAPI**](https://github.com/Patotricks15/fastapi_study): current
 - **RAG techniques from scratch**: coming soon
 - **Neo4j**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
