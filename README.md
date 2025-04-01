@@ -50,3 +50,4 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - **Scikit-learn documentation:** coming soon
 - **Causality:** coming soon
 - **Data Engineering**: coming soon
+- **Rust**: coming soon
