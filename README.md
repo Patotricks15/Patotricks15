@@ -43,8 +43,8 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**FastAPI basic**](https://github.com/Patotricks15/fastapi_study)
 - [**MLFlow**](https://github.com/Patotricks15/mlflow_study)
 - [**Llama Index**](https://github.com/Patotricks15/llama_index_study)
+- [**RAG techniques from scratch**](https://github.com/Patotricks15/rag_from_scratch)
 - [**AWS Certified AI Practicioner AIF-C01 - Study notes and questions**](https://github.com/Patotricks15/AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions): current
-- [**RAG techniques from scratch**](https://github.com/Patotricks15/rag_from_scratch): current
 - **Python - Data Structure and Algorithm**: coming soon
 - **Python - Concurrency**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
