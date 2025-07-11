@@ -8,6 +8,8 @@
 
 I'm a data scientist  4  years of experience, focusing on developing Machine Learning Models, Artificial Intelligence applications, prompt engineering, data analysis and econometric models. Currently I'm deeply studying Langchain and AI Agents to improve my career and my set of skills.
 
+<img src="aws-certified-ai-practitioner.png" alt="Title" width="150">
+
 ## Experience with:
 
 - **Machine Learning**: Development of predictive models for classification, regression, clustering, and time series
