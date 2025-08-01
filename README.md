@@ -52,6 +52,7 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**RAG techniques from scratch**](https://github.com/Patotricks15/rag_from_scratch)
 - [**AWS Certified AI Practicioner AIF-C01**](https://github.com/Patotricks15/AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions)
 - **AWS Certified Machine Learning Engineer - Associate**: current
+- **Generative AI Lens - AWS Well-Architected Framework**: current
 - **AWS Certified Machine Learning Specialty**
 
  ## 2026 studies roadmap
