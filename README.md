@@ -55,7 +55,8 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**RAG techniques from scratch**](https://github.com/Patotricks15/rag_from_scratch)
 - [**AWS Certified AI Practicioner AIF-C01**](https://github.com/Patotricks15/AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions)
 - [**AWS Certified Machine Learning Engineer - Associate**:](https://github.com/Patotricks15/Patotricks15/blob/main/aws-certified-machine-learning-engineer-associate.png)
-
+- [**Kaggle Course**](https://github.com/Patotricks15/kaggle_course): current
+- [**Introductory Java**](https://github.com/Patotricks15/java_study): current
  ## 2026 studies roadmap
 - [**Python - Data Structure and Algorithm**](https://github.com/Patotricks15/python_data_structure_and_algorithm): paused
 - **Python - Concurrency**: coming soon
