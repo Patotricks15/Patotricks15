@@ -57,10 +57,11 @@ I'm a data scientist  4  years of experience, focusing on developing Machine Lea
 - [**AWS Certified Machine Learning Engineer - Associate**:](https://github.com/Patotricks15/Patotricks15/blob/main/aws-certified-machine-learning-engineer-associate.png)
 - [**AI Agent Course - Kaggle + Google**:](https://github.com/Patotricks15/kaggle_course)
 - [**Introductory Java**:](https://github.com/Patotricks15/java_study)
-- 
+
  ## 2026 studies roadmap
 - **GCP Certified Professional Machine Learning Engineer**: current
-- [**Python - Data Structure and Algorithm**](https://github.com/Patotricks15/python_data_structure_and_algorithm): current
+- **Backend Java Projects**: current
+- [**Python - Data Structure and Algorithm**](https://github.com/Patotricks15/python_data_structure_and_algorithm): paused
 - **Python - Concurrency**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
