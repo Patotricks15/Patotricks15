@@ -59,10 +59,11 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**Introductory Java**](https://github.com/Patotricks15/java_study)
 
  ## 2026 studies roadmap
- - [**Backend Java Projects**](https://github.com/Patotricks15/backend-java-projects)
- - [**Data Warehouse Modelling**](https://github.com/Patotricks15/Data_Warehouse_Modelling): current
--  [**Python - Data Structure and Algorithm**](https://github.com/Patotricks15/python_data_structure_and_algorithm): paused
-- **Python - Concurrency**: coming soon
+- [**Backend Java Projects**](https://github.com/Patotricks15/backend-java-projects)
+- [**Data Warehouse Modelling**](https://github.com/Patotricks15/Data_Warehouse_Modelling): current
+-  [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm): current
+- **GCP Cloud Digital Leader**: coming soon
+- **Infrastructure As a Code**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
 - **Mathematics for Inference and Machine Learning - IMPERIAL COLLEGE LONDON**: coming soon
