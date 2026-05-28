@@ -61,9 +61,11 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
  ## 2026 studies roadmap
 - [**Backend Java Projects**](https://github.com/Patotricks15/backend-java-projects)
 - [**Data Warehouse Modelling**](https://github.com/Patotricks15/Data_Warehouse_Modelling)
-- [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm): current
+- [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm)
 - **GCP Cloud Digital Leader**: current
+- **GCP Cloud Professional Data Engineer**: coming soon
 - **Infrastructure As a Code**: coming soon
+- **System Design**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
 - **Mathematics for Inference and Machine Learning - IMPERIAL COLLEGE LONDON**: coming soon
