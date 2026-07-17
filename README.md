@@ -5,7 +5,7 @@
 
 **[Data Scientist](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
  | [AI Engineer](https://github.com/Patotricks15/Generative-AI-projects)
- | [Data Engineer]([https://github.com/Patotricks15/Generative-AI-projects](https://github.com/Patotricks15/data-engineering-projects/tree/main))**
+ | [Data Engineer](https://github.com/Patotricks15/data-engineering-projects)**
 
 I'm a data scientist with 5  years of experience, focusing on developing Machine Learning Models, Artificial Intelligence applications, prompt engineering, data analysis and econometric models. Currently I'm deeply studying Java and Backend to improve my career and my set of skills.
 
