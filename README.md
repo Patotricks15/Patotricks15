@@ -4,7 +4,8 @@
 ## 😊Welcome to my profile! 😊
 
 **[Data Scientist](https://github.com/Patotricks15/Ciencia-de-dados-projetos)
- | [AI Engineer](https://github.com/Patotricks15/Generative-AI-projects)**
+ | [AI Engineer](https://github.com/Patotricks15/Generative-AI-projects)
+ | [Data Engineer]([https://github.com/Patotricks15/Generative-AI-projects](https://github.com/Patotricks15/data-engineering-projects/tree/main))**
 
 I'm a data scientist with 5  years of experience, focusing on developing Machine Learning Models, Artificial Intelligence applications, prompt engineering, data analysis and econometric models. Currently I'm deeply studying Java and Backend to improve my career and my set of skills.
 
@@ -64,7 +65,7 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm)
 - **GCP Cloud Professional Data Engineer**: current
 - **Pragmatic Programmer**: current
-- **Infrastructure As a Code**: coming soon
+- **Infrastructure As a Code**: current
 - **System Design**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
