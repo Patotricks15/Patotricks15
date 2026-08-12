@@ -63,9 +63,12 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**Backend Java Projects**](https://github.com/Patotricks15/backend-java-projects)
 - [**Data Warehouse Modelling**](https://github.com/Patotricks15/Data_Warehouse_Modelling)
 - [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm)
-- **GCP Cloud Professional Data Engineer**: current
-- **Pragmatic Programmer**: current
+- [**Google Cloud Platform - Data Engineering**](https://github.com/Patotricks15/introduction_data_engineering_gcp)
+- **Google Cloud Platform - Machine Learning Engineering**: current
 - **Infrastructure As a Code**: current
+- **Google Cloud Platform - Cloud Practitioner**: coming soon
+- **Google Cloud Platform - Serveless Developer**: coming soon
+- **Google Cloud Platform - Solutions Architect**: coming soon
 - **System Design**: coming soon
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
