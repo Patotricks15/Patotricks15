@@ -70,10 +70,12 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - **Google Cloud Platform - Serveless Developer**: coming soon
 - **Google Cloud Platform - Solutions Architect**: coming soon
 - **System Design**: coming soon
+- **Open-source Data Engineering**: coming soon
+  
+ ## 2027 studies roadmap
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
 - **Essential math for data science:** coming soon
 - **Mathematics for Inference and Machine Learning - IMPERIAL COLLEGE LONDON**: coming soon
 - **Scikit-learn documentation:** coming soon
 - **Causality:** coming soon
-- **Data Engineering**: coming soon
 - **Rust**: coming soon
