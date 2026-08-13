@@ -66,12 +66,12 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**Google Cloud Platform - Data Engineering**](https://github.com/Patotricks15/introduction_data_engineering_gcp)
 - **Google Cloud Platform - Machine Learning Engineering**: current
 - **Airflow 3.0**: coming soon
-- **Infrastructure As a Code**: current
+- **MLOps pipelines using Airflow**: coming soon
+- **Infrastructure As a Code**: coming soon
 - **Google Cloud Platform - Cloud Practitioner**: coming soon
 - **Google Cloud Platform - Serveless Developer**: coming soon
 - **Google Cloud Platform - Solutions Architect**: coming soon
 - **System Design**: coming soon
-- **Open-source Data Engineering**: coming soon
   
  ## 2027 studies roadmap
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
