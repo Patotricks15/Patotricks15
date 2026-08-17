@@ -65,7 +65,7 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm)
 - [**Google Cloud Platform - Data Engineering**](https://github.com/Patotricks15/introduction_data_engineering_gcp)
 - **Google Cloud Platform - Machine Learning Engineering**: current
-- **Airflow 3.0**: coming soon
+- [**Airflow 3.0**](https://github.com/Patotricks15/airflow_3_study)
 - **MLOps pipelines using Airflow**: coming soon
 - **Infrastructure As a Code**: coming soon
 - **Google Cloud Platform - Cloud Practitioner**: coming soon
