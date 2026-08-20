@@ -57,9 +57,10 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**AWS Certified AI Practicioner AIF-C01**](https://github.com/Patotricks15/AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions)
 - [**AWS Certified Machine Learning Engineer - Associate**:](https://github.com/Patotricks15/Patotricks15/blob/main/aws-certified-machine-learning-engineer-associate.png)
 - [**AI Agent Course - Kaggle + Google**:](https://github.com/Patotricks15/kaggle_course)
-- [**Introductory Java**](https://github.com/Patotricks15/java_study)
 
  ## 2026 studies roadmap
+ 
+- [**Introductory Java**](https://github.com/Patotricks15/java_study)
 - [**Backend Java Projects**](https://github.com/Patotricks15/backend-java-projects)
 - [**Data Warehouse Modelling**](https://github.com/Patotricks15/Data_Warehouse_Modelling)
 - [**Python - Data Structure and Algorithm for AI**](https://github.com/Patotricks15/python_data_structure_and_algorithm)
