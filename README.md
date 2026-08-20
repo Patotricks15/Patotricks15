@@ -7,7 +7,7 @@
  | [AI Engineer](https://github.com/Patotricks15/Generative-AI-projects)
  | [Data Engineer](https://github.com/Patotricks15/data-engineering-projects)**
 
-I'm a data scientist with 5  years of experience, focusing on developing Machine Learning Models, Artificial Intelligence applications, prompt engineering, data analysis and econometric models. Currently I'm deeply studying Java and Backend to improve my career and my set of skills.
+I'm a data scientist with 5  years of experience, focusing on developing Machine Learning Models, Artificial Intelligence applications, prompt engineering, data analysis and econometric models. Currently I'm deeply studying Software Engineering to improve my career and my set of skills.
 
 <a href="https://www.credly.com/badges/eee66b6c-287b-4bed-8e55-5a4546b450ea/public_url" target="_blank">
   <img src="aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="140">
