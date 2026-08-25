@@ -69,7 +69,7 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 - [**Airflow 3.0**](https://github.com/Patotricks15/airflow_3_study)
 - [**MLOps pipeline using Airflow**](https://github.com/Patotricks15/mlops_airflow)
 - [**Infrastructure As a Code**](https://github.com/Patotricks15/iac_study)
-- **CI/CD - Continuous Integration and Continuous Delivery:** current
+- [**CI/CD - Continuous Integration and Continuous Delivery**](https://github.com/Patotricks15/cicd_study)
 - **System Design**: coming soon
 - **Google Cloud Platform - Cloud Practitioner**: coming soon
 - **Google Cloud Platform - Serveless Developer**: coming soon
