@@ -18,6 +18,18 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 
 
 
+## 🚀 Open Source & Libraries (`Lite AI & Data Ecosystem`)
+
+A suite of high-performance, memory-efficient micro-libraries and tools written with a fast **Rust** core and idiomatic bindings for **Python**, **TypeScript/Node.js**, and **Go**:
+
+- [**lite-guardrail-layer**](https://github.com/Patotricks15/lite-guardrail-layer): Real-time prompt screening service & SDK for LLM pipelines (Prompt Injection, Out-of-Context queries, Toxicity) using calibrated XGBoost and SentenceTransformers.
+- [**lite-semantic-layer**](https://github.com/Patotricks15/lite-semantic-layer): Declarative Semantic Layer & Text-to-SQL compiler turning natural language questions into verified, parameterized SQL via YAML metrics and dimensions.
+- [**lite-data-contracts**](https://github.com/Patotricks15/lite-data-contracts): Fast, memory-conscious data contract validator for LLM structured tool calls and streaming data records against YAML schema specs.
+- [**lite-prompt-registry**](https://github.com/Patotricks15/lite-prompt-registry): In-memory immutable prompt governance, versioning, and template rendering engine.
+- [**lite-synthetic-data**](https://github.com/Patotricks15/lite-synthetic-data): High-speed deterministic synthetic data generator for offline LLM benchmarking, prompt regression testing, and evaluation suites.
+
+---
+
 ## Experience with:
 
 - **Machine Learning**: Development of predictive models for classification, regression, clustering, and time series
