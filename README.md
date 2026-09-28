@@ -83,9 +83,10 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**Infrastructure As a Code**](https://github.com/Patotricks15/iac_study)
 - [**CI/CD - Continuous Integration and Continuous Delivery**](https://github.com/Patotricks15/cicd_study)
 - **System Design**: coming soon
-- **Google Cloud Platform - Cloud Practitioner**: coming soon
-- **Google Cloud Platform - Serveless Developer**: coming soon
-- **Google Cloud Platform - Solutions Architect**: coming soon
+- **AWS - Cloud Practitioner**: coming soon
+- **AWS - Generative AI**: coming soon
+- **AWS - Serveless Developer**: coming soon
+- **AWS - Solutions Architect**: coming soon
   
  ## 2027 studies roadmap
 - **Daily Dose of Data Science - 2024 Edition**: coming soon
