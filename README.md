@@ -82,6 +82,7 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**MLOps pipeline using Airflow**](https://github.com/Patotricks15/mlops_airflow)
 - [**Infrastructure As a Code**](https://github.com/Patotricks15/iac_study)
 - [**CI/CD - Continuous Integration and Continuous Delivery**](https://github.com/Patotricks15/cicd_study)
+- **Recommendation System Design**: current
 - **System Design**: coming soon
 - **AWS - Cloud Practitioner**: coming soon
 - **AWS - Generative AI**: coming soon
