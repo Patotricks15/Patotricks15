@@ -83,7 +83,7 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**Infrastructure As a Code**](https://github.com/Patotricks15/iac_study)
 - [**CI/CD - Continuous Integration and Continuous Delivery**](https://github.com/Patotricks15/cicd_study)
 - **System Design**: current
-- **Recommendation System Design**: current
+- [**Recommendation System Design**](https://github.com/Patotricks15/recommendation-system-design-projects)
 - **Time Series Forecasting System Design**: current
 - **Fraud Detection System Design**: current 
 - **AWS - Cloud Practitioner**: coming soon
