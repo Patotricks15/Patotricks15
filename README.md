@@ -84,8 +84,9 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**CI/CD - Continuous Integration and Continuous Delivery**](https://github.com/Patotricks15/cicd_study)
 - **System Design**: current
 - [**Recommendation System Design**](https://github.com/Patotricks15/recommendation-system-design-projects)
-- **Time Series Forecasting System Design**: current
-- **Fraud Detection System Design**: current 
+- [**Time Series Forecasting System Design**](https://github.com/Patotricks15/time-series-forecasting-system-design-projects)
+- [**Churn Prediction System Design**](https://github.com/Patotricks15/churn-prediction-system-design-projects)
+- [**Fraud Detection System Design**](https://github.com/Patotricks15/fraud-detection-system-design-projects)
 - **AWS - Cloud Practitioner**: coming soon
 - **AWS - Generative AI**: coming soon
 - **AWS - Serveless Developer**: coming soon
