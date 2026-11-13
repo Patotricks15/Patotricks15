@@ -32,11 +32,11 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 
 Six projects on the real `creditcardfraud` dataset, from a logistic baseline to drift monitoring. Each project has its own repo, tests, and README with negative results included.
 
-- [**fraud-logistic-baseline**](https://github.com/Patotricks15/fraud-logistic-baseline): Logistic regression baseline with calibrated thresholds.
+- [**fraud-logistic-baseline**](https://github.com/Patotricks15/fraud-logistic-baseline): Transparent, explainable logistic regression baseline.
 - [**fraud-cost-sensitive-xgboost**](https://github.com/Patotricks15/fraud-cost-sensitive-xgboost): Gradient boosting with cost-sensitive training.
 - [**fraud-unsupervised-anomaly**](https://github.com/Patotricks15/fraud-unsupervised-anomaly): Unsupervised anomaly detection compared with supervised models.
-- [**fraud-velocity-graph-features**](https://github.com/Patotricks15/fraud-velocity-graph-features): Velocity and graph features for transaction risk.
-- [**fraud-threshold-cost-policy**](https://github.com/Patotricks15/fraud-threshold-cost-policy): Threshold selection from explicit false-positive and false-negative costs.
+- [**fraud-velocity-graph-features**](https://github.com/Patotricks15/fraud-velocity-graph-features): Velocity and graph features for transaction risk. Blocked until a dataset with card and device IDs is verified.
+- [**fraud-threshold-cost-policy**](https://github.com/Patotricks15/fraud-threshold-cost-policy): Threshold that minimises expected loss under an alert budget.
 - [**fraud-drift-monitoring**](https://github.com/Patotricks15/fraud-drift-monitoring): Drift detection and monitoring for a deployed fraud score.
 
 ## 📈 Customer Lifetime Value Portfolio (real data)
