@@ -89,6 +89,7 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**Fraud Detection System Design**](https://github.com/Patotricks15/fraud-detection-system-design-projects)
 - [**Fraud Detection Portfolio**](https://github.com/Patotricks15/fraud-detection-portfolio)
 - [**Customer Lifetime Value Portfolio**](https://github.com/Patotricks15/customer-lifetime-value-portfolio)
+- [**Credit Score Portfolio**](https://github.com/Patotricks15/credit-score-portfolio)
 - **AWS - Cloud Practitioner**: coming soon
 - **AWS - Generative AI**: coming soon
 - **AWS - Serveless Developer**: coming soon
