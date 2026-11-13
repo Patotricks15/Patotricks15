@@ -28,6 +28,30 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**lite-prompt-registry**](https://github.com/Patotricks15/lite-prompt-registry): In-memory immutable prompt governance, versioning, and template rendering engine.
 - [**lite-synthetic-data**](https://github.com/Patotricks15/lite-synthetic-data): High-speed deterministic synthetic data generator for offline LLM benchmarking, prompt regression testing, and evaluation suites.
 
+## 🛡️ Fraud Detection Portfolio (real data)
+
+Six projects on the real `creditcardfraud` dataset, from a logistic baseline to drift monitoring. Each project has its own repo, tests, and README with negative results included.
+
+- [**fraud-logistic-baseline**](https://github.com/Patotricks15/fraud-logistic-baseline): Logistic regression baseline with calibrated thresholds.
+- [**fraud-cost-sensitive-xgboost**](https://github.com/Patotricks15/fraud-cost-sensitive-xgboost): Gradient boosting with cost-sensitive training.
+- [**fraud-unsupervised-anomaly**](https://github.com/Patotricks15/fraud-unsupervised-anomaly): Unsupervised anomaly detection compared with supervised models.
+- [**fraud-velocity-graph-features**](https://github.com/Patotricks15/fraud-velocity-graph-features): Velocity and graph features for transaction risk.
+- [**fraud-threshold-cost-policy**](https://github.com/Patotricks15/fraud-threshold-cost-policy): Threshold selection from explicit false-positive and false-negative costs.
+- [**fraud-drift-monitoring**](https://github.com/Patotricks15/fraud-drift-monitoring): Drift detection and monitoring for a deployed fraud score.
+
+## 📈 Customer Lifetime Value Portfolio (real data)
+
+Six projects on Online Retail II and Olist, from historical RFM to acquisition budgets. Each project has its own repo, tests, and README. Results that did not hold up are reported as such.
+
+- [**historical-clv-rfm**](https://github.com/Patotricks15/historical-clv-rfm): RFM segmentation and historical CLV.
+- [**bgnbd-gammagamma-clv**](https://github.com/Patotricks15/bgnbd-gammagamma-clv): BG/NBD + Gamma-Gamma probabilistic CLV, with calibration and stability checks.
+- [**clv-gbm-regression**](https://github.com/Patotricks15/clv-gbm-regression): Gradient boosting CLV regression compared with probabilistic baselines.
+- [**clv-uncertainty-intervals**](https://github.com/Patotricks15/clv-uncertainty-intervals): Bayesian (pymc) and bootstrap uncertainty intervals for CLV, with coverage checks.
+- [**value-segmentation**](https://github.com/Patotricks15/value-segmentation): Value and churn-proxy segmentation on Olist.
+- [**acquisition-budget-policy**](https://github.com/Patotricks15/acquisition-budget-policy): Maximum acquisition cost per value quartile from discounted CLV, with margin and retention sensitivity.
+
+---
+
 ---
 
 ## Experience with:
