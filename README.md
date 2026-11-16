@@ -87,6 +87,7 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**Time Series Forecasting System Design**](https://github.com/Patotricks15/time-series-forecasting-system-design-projects)
 - [**Churn Prediction System Design**](https://github.com/Patotricks15/churn-prediction-system-design-projects)
 - [**Fraud Detection System Design**](https://github.com/Patotricks15/fraud-detection-system-design-projects)
+- [**Uber-like Systems Design**](https://github.com/Patotricks15/uber-like-systems-design-projects)
 - [**Fraud Detection Portfolio**](https://github.com/Patotricks15/fraud-detection-portfolio)
 - [**Customer Lifetime Value Portfolio**](https://github.com/Patotricks15/customer-lifetime-value-portfolio)
 - [**Credit Score Portfolio**](https://github.com/Patotricks15/credit-score-portfolio)
