@@ -12,6 +12,9 @@ I'm a data scientist with 5  years of experience, focusing on developing Machine
 <a href="https://www.credly.com/badges/eee66b6c-287b-4bed-8e55-5a4546b450ea/public_url" target="_blank">
   <img src="aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="140">
 </a>
+<a href=https://www.credly.com/badges/5fd75071-e602-4b87-a8f0-99bb5a81b89c/public_url" target="_blank">
+  <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="140">
+</a>
 <a href="https://www.credly.com/badges/4f0d3681-ec44-4147-a398-3014d0f821a1/public_url" target="_blank">
   <img src="aws-certified-machine-learning-engineer-associate.png" alt="AWS Certified Machine Learning Engineer" width="140">
 </a>
