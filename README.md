@@ -97,6 +97,7 @@ A suite of high-performance, memory-efficient micro-libraries and tools written 
 - [**Customer Segmentation Portfolio**](https://github.com/Patotricks15/customer-segmentation-portfolio)
 - [**Dynamic Pricing Design**](https://github.com/Patotricks15/dynamic-pricing-design-projects)
 - [**Cybersecurity ML Projects**](https://github.com/Patotricks15/cybersecurity-ml-projects)
+- [**Game Theory ML Projects**](https://github.com/Patotricks15/game-theory-portfolio)
 - [**AWS - Cloud Practitioner**](https://github.com/Patotricks15/AWS-Cloud-Practitioner-projects)
 - [**AWS - Generative AI**](https://github.com/Patotricks15/AWS-Generative-AI-projects)
 - **AWS - Serveless Developer**: coming soon
